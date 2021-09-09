@@ -4,7 +4,7 @@ For running this script you need to have this modules installed {sys,socket,pyfi
 You can install pyfiglet by using {pip3 install pyfiglet==0.7} 
 ![Image of gitclone ](https://github.com/ayushsinghsrinet/portscanner/blob/main/gitclone.png)
 
-YOU Can use {git clone https://github.com/ayushsinghsrinet/portscanner.git} to download it
+YOU Can use {git clone https://github.com/hac01/portscanner.git} to download it
 
 ![Image of cdto ](https://github.com/ayushsinghsrinet/portscanner/blob/main/cdto.png)
 
